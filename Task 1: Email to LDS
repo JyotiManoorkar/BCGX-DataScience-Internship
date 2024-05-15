@@ -1,0 +1,14 @@
+Hi [LDS],
+
+To test if customers leave because of prices, we need to study how likely they are to leave based on prices. We need certain information to do this:
+
+Details about customers, like what industry they're in, how much electricity they usually use, and when they became customers.
+Information about whether customers have left or not.
+Past prices for electricity and gas that the company has charged customers, broken down by time.
+Once we have this data, we can create new characteristics based on it and make a model to predict if customers will leave or not. 
+We can use models like Logistic Regression, Random Forest, or Gradient Boosted Machines. 
+We'll choose the best model by balancing how complex it is, how well it explains things, and how accurate it is. 
+With the chosen model, we can see how much prices affect whether customers leave, and how important prices are compared to other factors. 
+Also, we can figure out how much the company's discount plan might affect its business.
+
+Regards[Jyoti]
