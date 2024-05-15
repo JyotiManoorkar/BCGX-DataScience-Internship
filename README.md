@@ -1,4 +1,4 @@
-BCG
+# BCG
 The BCG Open-Access Data Science & Advanced Analytics Virtual Experience Program
 
 Welcome to the Open-Access Data Science & Advanced Analytics Virtual Experience Program
@@ -13,8 +13,7 @@ As a BCG GAMMA Data Scientist, you can expect to work in many different industri
 
 We hope you will enjoy your virtual experience and get a glimpse into the exciting life of a Data Scientist at BCG GAMMA!
 
-Tasks
-1: Business Understanding & Problem Framing
+## Tasks 1: Business Understanding & Problem Framing
 How to quickly understand the business context
 
 Background information on task 1
@@ -37,7 +36,7 @@ We would suggest spending no more than one hour on this task.
 
 Please note, there are multiple ways to approach the task and that the sample answer is just one way to do it.
 
-2: Exploratory Data Analysis & Data Cleaning
+## 2: Exploratory Data Analysis & Data Cleaning
 Understanding business through data
 
 Background information on task 2
@@ -61,7 +60,7 @@ Sub-Task 1: Clean the data – you might have to address missing values, duplica
 
 Sub-Task 2: Perform some exploratory data analysis. Look into the data types, data statistics, and identify any missing data or null values, and how often they appear in the data. Visualize specific parameters as well as variable distributions.
 
-3: Feature Engineering
+## 3: Feature Engineering
 Uncovering signals with data
 
 The team now has a good understanding of the data and feels confident to use the data to further understand the business problem. The team now needs to brainstorm and build out features to uncover signals in the data that could inform the churn model.
@@ -76,7 +75,7 @@ Sub-task 1: Think through what key drivers of churn could be for our client
 
 Sub-task 2: Build the features in order to get ready to model
 
-4: Modeling & Evaluation
+## 4: Modeling & Evaluation
 Modeling the problem and evaluating the model
 
 Background information on task 4
