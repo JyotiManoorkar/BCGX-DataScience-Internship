@@ -12,7 +12,7 @@ As a BCG GAMMA Data Scientist, you can expect to work in many different industri
 
 We hope you will enjoy your virtual experience and get a glimpse into the exciting life of a Data Scientist at BCG GAMMA!
 
-##Tasks 1: Business Understanding & Problem Framing
+## Tasks 1: Business Understanding & Problem Framing
 How to quickly understand the business context
 
 Background information on task 1
